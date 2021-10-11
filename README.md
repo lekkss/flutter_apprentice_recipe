@@ -2,6 +2,16 @@
 
 A new Flutter project.
 
+##  Origin
+
+Fluttter apprentice book
+
+##  Screenshots
+<p>
+    <img src="screenshots/a.png" width="200px" height="auto" hspace="10"/>
+    <img src="screenshots/b.png" width="200px" height="auto" hspace="10"/>
+</p>
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
