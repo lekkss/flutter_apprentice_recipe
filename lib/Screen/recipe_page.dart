@@ -17,7 +17,7 @@ class _RecipiePageState extends State<RecipiePage> {
       appBar: AppBar(
         elevation: 0,
         centerTitle: true,
-        title: Text('Recepie'),
+        title: Text('Recipe'),
       ),
       body: SafeArea(
         child: Padding(

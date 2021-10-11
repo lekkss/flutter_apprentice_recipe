@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_apprentice_course/Screen/recipie_page.dart';
+import 'package:flutter_apprentice_course/Screen/recipe_page.dart';
 
 void main() {
   runApp(MyApp());
